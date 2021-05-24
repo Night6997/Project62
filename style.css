@@ -1,0 +1,60 @@
+body{
+background-color:black;
+text-align:center;
+}
+#img1{
+height:1000px;
+width:1200px;
+}
+.GridImages{
+height:300px;
+width:450px;
+}
+#home{
+background-color:black;
+color:aqua;
+height:1000px;
+width:100%;
+}
+#Grids{
+background-color:black;
+color:aqua;
+height:1000px;
+width:100%;
+}
+
+.menu {
+    margin-top: 0px;
+    position: fixed;
+    background: black;
+    color: aqua;
+    width: 100%;
+    top: 0px;
+    z-index: 10;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    color: darkblue;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 19px;
+}
+#myCarousel{
+background-color:black;
+color:aqua;
+height:500px;
+width:100%;
+}
+#myCarousel img{
+height:350px;
+width:450px;
+margin-top:35px;
+}
+.carousel-inner p{
+  margin-top: 15px;
+    font-size: 17px;
+    color: darkmagenta;
+    margin-bottom: 15px
+}
+
